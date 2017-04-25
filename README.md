@@ -1,3 +1,6 @@
+# Note to Grader:
+I added additional styling in this workshop.
+
 # Pug Workshop
 
 [Pug](https://pugjs.org/), formerly known as Jade, is a preprocessor for HTML and a Node.js templating engine implemented with Javascript. It is the number one
